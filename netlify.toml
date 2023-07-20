@@ -66,8 +66,6 @@ TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
 
 SORT_BY = "title"
-# (Optional) Google Analytics Measurement ID
-GANALYTICS = "G-GXRDN10PHJ"
 
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
