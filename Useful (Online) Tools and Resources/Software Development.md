@@ -12,4 +12,4 @@
 - [Weights and Biases](https://wandb.ai)
 
 # Traffic Monitoring
-- [YHype to keep track of GitHub traffics more than 14 days](https://yhype.me/github/accounts/ppeetteerrs)
+- [YHype to keep track of GitHub traffics more than 14 days](https://yhype.me/github/accounts/nachinolkar)

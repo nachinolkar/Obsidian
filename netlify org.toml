@@ -1,5 +1,5 @@
 [build]
-command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone -b dev https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone -b dev https://github.com/nachinolkar/obsidian-zola.git __site && __site/run.sh"
 publish = "public"
 
 [build.environment]
@@ -44,15 +44,15 @@ HOME_GRAPH = "y"
 LANDING_BUTTON = "<span class='shake-rotate shake-freeze'>Have a look?</span>"
 LANDING_DESCRIPTION = "<div style='margin-bottom: 1rem; margin-top: -3rem;'>My physical brain is <div style='font-size: 4rem; display: inline-block' class='animate__animated animate__pulse animate__infinite '>💤 </div> but my digital brain is active.</div>"
 LANDING_PAGE = "home"
-LANDING_TITLE = "<span class='hvr-grow'>Hi, I'm Peter</span>"
+LANDING_TITLE = "<span class='hvr-grow'>Hi, I'm Sheetal</span>"
 LOCAL_GRAPH = "y"
 PAGE_GRAPH = "y"
 PYTHON_VERSION = "3.8"
-REPO_URL = "https://github.com/ppeetteerrs/obsidian-pkm"
+REPO_URL = "https://github.com/nachinolkar/obsidian-pkm"
 ROOT_SECTION_NAME = "root"
-SITE_TITLE = "Peter's 2<sup>nd</sup> <span class='hvr-pulse'>🧠</span>"
-SITE_TITLE_TAB = "Peter's Second 🧠"
-SITE_URL = "https://peteryuen.netlify.app/"
+SITE_TITLE = "Sheetal's 2<sup>nd</sup> <span class='hvr-pulse'>🧠</span>"
+SITE_TITLE_TAB = "Sheetal's Second 🧠"
+SITE_URL = "https://nachinolkar.netlify.app/"
 SLUGIFY = "y"
 STRICT_LINE_BREAKS = "y"
 TIMEZONE = "Asia/Hong_Kong"
@@ -64,7 +64,7 @@ package = "netlify-plugin-submit-sitemap"
 [plugins.inputs]
 
 # The base url of your site (optional, default = main URL set in Netlify)
-baseUrl = "https://peteryuen.netlify.app/"
+baseUrl = "https://nachinolkar.netlify.app/"
 
 # Path to the sitemap URL (optional, default = /sitemap.xml)
 sitemapPath = "/sitemap.xml"
