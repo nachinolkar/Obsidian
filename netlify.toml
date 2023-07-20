@@ -55,7 +55,7 @@ PYTHON_VERSION = "3.8"
 REPO_URL = "https://github.com/nachinolkar/obsidian-zola"
 ROOT_SECTION_NAME = "root"
 
-SITE_TITLE = "Sheetal's 2<sup>nd</sup> <span class='hvr-pulse'>🧠</span>"
+SITE_TITLE = "Sheetal Nachinolkar's 2<sup>nd</sup> <span class='hvr-pulse'>🧠</span>"
 SITE_TITLE_TAB = "Sheetal's Second 🧠"
 SITE_URL = "https://nachinolkar.netlify.app/"
 
