@@ -1,6 +1,6 @@
 [build]
-command = "rm -rf __obsidian __site && ls && git clone https://github.com/nachinolkar/obsidian-zola-main __site && chmod a+x __site/run.sh && __site/run.sh"
-#&& mkdir __obsidian 
+command = "rm -rf __obsidian __site && ls && mkdir __obsidian && git clone https://github.com/nachinolkar/obsidian __site && chmod a+x __site/run.sh && __site/run.sh"
+ 
 #mv * __site/__obsidian && 
 
 publish = "obsidian"
