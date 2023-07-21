@@ -1,5 +1,0 @@
-- Posh British accent
-- Doing backflips
-- Cycling with no hands
-- Playing Guitar properly
-- Ability to throw a bowling ball in the intended direction

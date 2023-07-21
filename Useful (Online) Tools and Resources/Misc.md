@@ -1,1 +1,0 @@
-- [Cool Bio Illustrations](https://biorender.com/)

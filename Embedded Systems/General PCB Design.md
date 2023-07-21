@@ -1,6 +1,0 @@
-- Choosing Crystal Caps
-	- https://blog.adafruit.com/2012/01/24/choosing-the-right-crystal-and-caps-for-your-design/
-	- https://www.eet-china.com/mp/a11092.html
-- Why filtering caps not bigger better
-	- Because of series inductance, so V-shaped Bode plot
-	- 

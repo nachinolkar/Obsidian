@@ -1,2 +1,0 @@
-- [Char Siew](http://ieatishootipost.sg/leslie-char-siu-recipe/)
-- Golden Corn (yet to find)

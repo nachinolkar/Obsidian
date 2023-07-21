@@ -1,1 +1,0 @@
-https://forums.tomshardware.com/threads/ntfs-fat32-mbr-gpt-what-is-the-difference.1878188/

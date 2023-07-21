@@ -1,1 +1,0 @@
-- [Connected Papers](https://www.connectedpapers.com/)
