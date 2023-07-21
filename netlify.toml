@@ -1,5 +1,5 @@
 [build]
-command = "echo obsidian && rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/nachinolkar/obsidian-zola-main __site && chmod a+x __site/run.sh && __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __site/__obsidian && mv * __site/__obsidian && git clone https://github.com/nachinolkar/obsidian-zola-main __site && chmod a+x __site/run.sh && __site/run.sh"
 publish = "public"
  
 [build.environment]
