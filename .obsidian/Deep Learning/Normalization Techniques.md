@@ -1,2 +1,0 @@
-- https://towardsdatascience.com/its-necessary-to-combine-batch-norm-and-skip-connections-e92210ca04da
-- 
