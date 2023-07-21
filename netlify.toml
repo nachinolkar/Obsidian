@@ -1,6 +1,6 @@
 [build]
 command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/nachinolkar/obsidian-zola-main __site && chmod a+x __site/run.sh && __site/run.sh"
-publish = "public"
+publish = "obsidian-pkm_main"
  
 [build.environment]
 FOOTER = "Proudly "
@@ -52,7 +52,7 @@ LOCAL_GRAPH = "y"
 PAGE_GRAPH = "y"
 PYTHON_VERSION = "3.8"
 
-REPO_URL = "https://github.com/nachinolkar/obsidian-zola"
+REPO_URL = "https://github.com/nachinolkar/obsidian-pkm_main"
 ROOT_SECTION_NAME = "root"
 
 SITE_TITLE = "Sheetal Nachinolkar's 2<sup>nd</sup> <span class='hvr-pulse'>🧠</span>"
