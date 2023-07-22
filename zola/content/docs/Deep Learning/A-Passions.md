@@ -1,5 +1,5 @@
 ---
-aliases: [Adaptive Moment Estimation]
+aliases: testing
 ---
 Writing
 	[[On writing]]
