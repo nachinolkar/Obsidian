@@ -1,3 +1,6 @@
+---
+aliases: [Metallic PETG]
+---
 Just change model teeth number in "Parameters". Remember to only go from low teeth count to high teeth count, doing the reverse might cause errors. E.g. if you changed teeth count to 57 and decided on 42 after a while, start from the original 10 teeth model again instead of your 57 teeth model.
 
 ## GT2

@@ -1,3 +1,6 @@
+---
+aliases: [Silk Metallic test]
+---
 - SWD connection on stock / silent board
 - GG bootloader 
 	- https://github.com/arkorobotics/MiniDeltaBootloader

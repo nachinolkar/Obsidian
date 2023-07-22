@@ -1,3 +1,6 @@
+---
+aliases: [ETG]
+---
 ## 28BYJ-48 Stepper Motor
 <iframe src="https://myhub.autodesk360.com/ue2d5e1af/shares/public/SH9285eQTcf875d3c5395d56f049e8fd5d84?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
