@@ -1,6 +1,5 @@
 ---
-title: "___LANDING_TITLE___"
-sort_by: "___SORT_BY___"
+title: "testing 2"
 
 extra:
   lead: "___LANDING_DESCRIPTION___"
