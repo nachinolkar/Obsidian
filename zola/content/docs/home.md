@@ -1,5 +1,5 @@
 ---
-aliases: [Adaptive Moment Estimation]
+title: "Home!!!"
 ---
 Click anything on the sidebar :)
 

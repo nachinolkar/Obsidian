@@ -1,3 +1,11 @@
+---
+title: "Read me"
+
+extra:
+  lead: "___LANDING_DESCRIPTION___"
+  url: "/docs/___LANDING_PAGE___"
+  url_button: "___LANDING_BUTTON___"
+---
 # My personal PKM, also example site for obsidian-zola
 
 ![](https://img.shields.io/netlify/eb907b75-43df-4dbb-a22b-a7b4cea7332d)
