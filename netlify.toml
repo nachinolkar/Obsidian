@@ -70,7 +70,7 @@ ZOLA_VERSION = "0.15.2"
 SORT_BY = "title"
 
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
-SIDEBAR_COLLAPSED = ""
+SIDEBAR_COLLAPSED = "false"
 
 [[plugins]]
 package = "netlify-plugin-submit-sitemap"
