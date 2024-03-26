@@ -1,0 +1,22 @@
+{
+  "defaultViewMode": "preview",
+  "legacyEditor": false,
+  "livePreview": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "attachments",
+  "showUnsupportedFiles": true,
+  "newFileFolderPath": "misc",
+  "pdfExportSettings": {
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "strictLineBreaks": false,
+  "vimMode": false
+}
