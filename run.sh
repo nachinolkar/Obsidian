@@ -19,8 +19,10 @@ mkdir -pv __site/build/content/docs __site/build/__docs
 chmod a+x __site/bin/obsidian-export
 
 if [ -z "$STRICT_LINE_BREAKS" ]; then
+	echo "this loop here"
 	__site/bin/obsidian-export --frontmatter=never --hard-linebreaks --no-recursive-embeds __obsidian __site/build/docs
 else
+	echo "that loop there"
 	__site/bin/obsidian-export --frontmatter=never --no-recursive-embeds __obsidian __site/build/docs
 fi
 
