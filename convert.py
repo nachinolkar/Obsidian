@@ -25,12 +25,14 @@ if __name__ == "__main__":
     section_count = 0
 
     all_paths = list(sorted(raw_dir.glob("**/*")))
-    print("Entering this damn loop!")
-    print(Settings.parse_env())
-    print("Printed settings?!")
     
     for path in [raw_dir, *all_paths]:
         doc_path = DocPath(path)
+        
+        print("Progress in damn loop!")
+        print(doc_path)
+        print("where am i?!")
+    
         if doc_path.is_file:
             if doc_path.is_md:
                 # Page
