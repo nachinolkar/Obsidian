@@ -14,13 +14,12 @@ rsync -vaP __site/zola/content/ __site/build/content
 
 # Use obsidian-export to export markdown content from obsidian
 mkdir -pv __site/build/content/docs 
+mkdir -pv __site/build/__docs
 #__site/build/__docs
-#__site/build/__docs
+
+ls __obsidian
 
 chmod a+x __site/bin/obsidian-export
-
-echo __obsidian 
-echo __site/build/docs
 
 if [ -z "$STRICT_LINE_BREAKS" ]; then
 	echo "this loop here"
