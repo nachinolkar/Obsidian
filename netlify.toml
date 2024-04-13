@@ -1,7 +1,10 @@
 [build]
 #command = "rm -rf __obsidian __site && mkdir __obsidian && ls && mv -i * __obsidian && git clone https://github.com/nachinolkar/obsidian __site && chmod a+x __site/run.sh && __site/run.sh"
 
-command = "rm -rf __obsidian __site  && mkdir __obsidian && ls && mv -i * __obsidian && git clone https://github.com/nachinolkar/obsidian __site && chmod a+x __site/run.sh && __site/run.sh"
+#command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone -b dev https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
+
+
+command = "rm -rf __obsidian __site && mkdir __obsidian && ls && mv * __obsidian || true && git clone https://github.com/nachinolkar/obsidian __site && chmod a+x __site/run.sh && __site/run.sh"
 publish = "public"
  
 [build.environment]
