@@ -26,7 +26,8 @@ if __name__ == "__main__":
 
     all_paths = list(sorted(raw_dir.glob("**/*")))
     print("Entering this damn loop!")
-    print(all_paths)
+    print(Settings.parse_env())
+    print("Printed settings?!")
     
     for path in [raw_dir, *all_paths]:
         doc_path = DocPath(path)
