@@ -4,13 +4,14 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "outgoing-link",
   "note-composer",
   "command-palette",
   "slash-command",
+  "bookmarks",
   "markdown-importer",
   "outline",
-  "open-with-default-app",
   "file-recovery",
   "sync"
 ]

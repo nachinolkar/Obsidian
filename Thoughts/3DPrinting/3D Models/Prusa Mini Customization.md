@@ -1,5 +1,6 @@
 ---
-aliases: [Testing]
+aliases:
+  - Testing
 ---
 
 My own Prusa Mini customized rendering based on STEP model from GrabCAD

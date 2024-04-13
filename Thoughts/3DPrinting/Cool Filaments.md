@@ -1,9 +1,7 @@
 ---
 title: "Home new!!!"
 ---
-Click anything on the sidebar :)
+This is 3D Printing, Cool :)
 
-Cool Stuff to look out for what the heck:
-- NuShell
 
-hey hello!!
+hey filaments!!
