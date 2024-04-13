@@ -30,7 +30,7 @@ if __name__ == "__main__":
         doc_path = DocPath(path)
         
         print("Progress in damn loop!")
-        print(doc_path)
+        print(site_dir)
         print("where am i?!")
     
         if doc_path.is_file:
