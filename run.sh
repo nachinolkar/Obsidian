@@ -13,7 +13,8 @@ rsync -vaP __site/zola/ __site/build
 rsync -vaP __site/zola/content/ __site/build/content
 
 # Use obsidian-export to export markdown content from obsidian
-mkdir -pv __site/build/content/docs __site/build/__docs
+mkdir -pv __site/build/content/docs 
+#__site/build/__docs
 #__site/build/__docs
 
 chmod a+x __site/bin/obsidian-export
