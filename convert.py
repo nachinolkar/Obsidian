@@ -13,7 +13,6 @@ from utils import (
 )
 
 if __name__ == "__main__":
-    print("Entering this damn loop!")
 
     Settings.parse_env()
     Settings.sub_file(site_dir / "config.toml")
@@ -26,7 +25,9 @@ if __name__ == "__main__":
     section_count = 0
 
     all_paths = list(sorted(raw_dir.glob("**/*")))
-
+    print("Entering this damn loop!")
+    print(all_paths)
+    
     for path in [raw_dir, *all_paths]:
         doc_path = DocPath(path)
         if doc_path.is_file:
