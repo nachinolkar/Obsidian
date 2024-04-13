@@ -13,6 +13,7 @@ from utils import (
 )
 
 if __name__ == "__main__":
+    print("Entering this damn loop!")
 
     Settings.parse_env()
     Settings.sub_file(site_dir / "config.toml")
