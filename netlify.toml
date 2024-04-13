@@ -4,8 +4,7 @@
 #command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone -b dev https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
 
 
-command = "rm -rf __obsidian __site && mkdir __obsidian && ls && mv * __obsidian || true && git clone https://github.com/nachinolkar/obsidian __site "
-#&& chmod a+x __site/run.sh && __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __obsidian && ls && mv * __obsidian || true && git clone https://github.com/nachinolkar/obsidian __site && chmod a+x __site/run.sh && __site/run.sh"
 publish = "public"
  
 [build.environment]
@@ -50,10 +49,10 @@ GRAPH_OPTIONS = """
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
 HOME_GRAPH = "y"
 
-LANDING_BUTTON = "<span class='shake-rotate shake-freeze'>Have a look?</span>"
-LANDING_DESCRIPTION = "<div style='margin-bottom: 1rem; margin-top: -3rem;'>My physical brain is <div style='font-size: 4rem; display: inline-block' class='animate__animated animate__pulse animate__infinite '>💤 </div> but my digital brain is active.</div>"
+LANDING_BUTTON = "<span class='shake-rotate shake-freeze'>Why not have a look?</span>"
+LANDING_DESCRIPTION = "<div style='margin-bottom: 1rem; margin-top: -3rem;'>My physical brain is snoring<div style='font-size: 4rem; display: inline-block' class='animate__animated animate__pulse animate__infinite '>💤 </div> but my digital brain is active.</div>"
 LANDING_PAGE = "home"
-LANDING_TITLE = "<span class='hvr-grow'>Hi, I'm Sheetal</span>"
+LANDING_TITLE = "<span class='hvr-grow'>Hi, I'm Sheetal, your friendly ghost!</span>"
 LOCAL_GRAPH = "y"
 PAGE_GRAPH = "y"
 PYTHON_VERSION = "3.8"
