@@ -29,6 +29,7 @@ if __name__ == "__main__":
     all_paths = list(sorted(raw_dir.glob("**/*")))
     
     print("Progress in damn loop!")
+    print(raw_dir.absolute())
     print(list(raw_dir.glob("**/*")))
     print("where am i?!")
 
