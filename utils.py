@@ -15,7 +15,7 @@ from urllib.parse import quote, unquote
 from slugify import slugify
 
 site_dir = Path(__file__).parent.absolute() / "build"
-raw_dir = site_dir / "__docs"
+raw_dir = site_dir / "docs"
 docs_dir = site_dir / "content/docs"
 
 # ---------------------------------------------------------------------------- #
