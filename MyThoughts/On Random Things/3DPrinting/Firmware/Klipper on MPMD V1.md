@@ -1,4 +1,5 @@
 ---
+title: "Home new!!!"
 aliases: [Silk Metallic test]
 ---
 - SWD connection on stock / silent board

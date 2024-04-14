@@ -1,23 +1,18 @@
 {
   "main": {
-    "id": "c4d4e03e97b968fb",
+    "id": "77a35dcd9a10a0ac",
     "type": "split",
     "children": [
       {
-        "id": "1312f4b1f9b51095",
+        "id": "22db2dabc74d4baa",
         "type": "tabs",
         "children": [
           {
-            "id": "726825ec259760ae",
+            "id": "d96e352876031a87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README - Main.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -26,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2d8119adc8f23166",
+    "id": "509b0b07342b6a29",
     "type": "split",
     "children": [
       {
-        "id": "71252187cbcd12b5",
+        "id": "df2a4a683546f3dd",
         "type": "tabs",
         "children": [
           {
-            "id": "9bfce4e55d07dcaa",
+            "id": "918f0a1aae68d473",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +39,7 @@
             }
           },
           {
-            "id": "f10b97490d17121d",
+            "id": "d05075d2e1c41c05",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +54,7 @@
             }
           },
           {
-            "id": "aeacf00dcb8a09d3",
+            "id": "edd68798dfffaea3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 300
   },
   "right": {
-    "id": "917d2de2da14f185",
+    "id": "4de86be5eaf5a1ed",
     "type": "split",
     "children": [
       {
-        "id": "05921812c4009d89",
+        "id": "1614109abeac1664",
         "type": "tabs",
         "children": [
           {
-            "id": "88d3fa158c352b54",
+            "id": "a6951f069df29d93",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README - Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,32 +92,32 @@
             }
           },
           {
-            "id": "446d33392ae80f94",
+            "id": "6478ea3e50d9a09b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README - Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0f15091471d0bbcb",
+            "id": "39753be60d8f4329",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-                "file": "README - Main.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "5c7d4c13e2bfe614",
+            "id": "208243143bef024e",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "outline",
               "state": {}
             }
           }
@@ -139,48 +133,11 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9bfce4e55d07dcaa",
-  "lastOpenFiles": [
-    "zola/content/docs/Thoughts/3DPrinting/Firmware/Klipper on MPMD V1.md",
-    "zola/content/docs/Thoughts/3DPrinting/Firmware/Octoprint.md",
-    "zola/content/docs/Thoughts/3DPrinting/3D Models/Gear and Belt Generators.md",
-    "zola/content/docs/Thoughts/3DPrinting/3D Models/Motors.md",
-    "zola/content/docs/Thoughts/3DPrinting/3D Models/Prusa Mini Customization.md",
-    "zola/content/docs/Thoughts/FiftyOne/Cool Filaments.md",
-    "zola/content/docs/Thoughts/3DPrinting/Cool Filaments.md",
-    "zola/content/docs/Thoughts/3DPrinting/Firmware",
-    "zola/content/docs/Thoughts/3DPrinting/3D Models",
-    "zola/content/docs/Thoughts/garden hibiscus.md",
-    "zola/content/docs/Thoughts/FiftyOne",
-    "zola/content/docs/Thoughts/3DPrinting",
-    "zola/content/docs/Thoughts",
-    "zola/build/docs/Thoughts/3DPrinting/Firmware/Octoprint.md",
-    "zola/build/docs/Thoughts/3DPrinting/Firmware/Klipper on MPMD V1.md",
-    "zola/build/docs/Thoughts/3DPrinting/3D Models/Motors.md",
-    "zola/build/docs/Thoughts/3DPrinting/3D Models/Prusa Mini Customization.md",
-    "zola/build/docs/Thoughts/3DPrinting/3D Models/Gear and Belt Generators.md",
-    "zola/build/docs/Thoughts/FiftyOne/Cool Filaments.md",
-    "zola/build/docs/Thoughts/3DPrinting/Firmware",
-    "zola/build/docs/Thoughts/3DPrinting/Cool Filaments.md",
-    "zola/build/docs/Thoughts/3DPrinting/3D Models",
-    "zola/build/docs/Thoughts/garden hibiscus.md",
-    "zola/build/docs/Thoughts/FiftyOne",
-    "zola/build/docs/Thoughts/3DPrinting",
-    "zola/build/docs/Thoughts",
-    "zola/build/Thoughts/3DPrinting/Firmware/Octoprint.md",
-    "zola/build/Thoughts/3DPrinting/Firmware/Klipper on MPMD V1.md",
-    "zola/build/Thoughts/3DPrinting/3D Models/Prusa Mini Customization.md",
-    "zola/build/Thoughts/3DPrinting/3D Models/Motors.md",
-    "zola/build/Thoughts/3DPrinting/3D Models/Gear and Belt Generators.md",
-    "zola/build/Thoughts/FiftyOne/Cool Filaments.md",
-    "zola/build/Thoughts/3DPrinting/Cool Filaments.md",
-    "zola/build/Thoughts/garden hibiscus.md",
-    "zola/Thoughts/3DPrinting/Firmware/Octoprint.md",
-    "zola/Thoughts/3DPrinting/Firmware/Klipper on MPMD V1.md"
-  ]
+  "active": "d96e352876031a87",
+  "lastOpenFiles": []
 }
