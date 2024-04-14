@@ -15,7 +15,6 @@ from utils import (
 print("Progress in damn loop!")
 print(site_dir)
 print(raw_dir)
-print(docs_dir)
 
 print("where am i?!")
         
@@ -32,7 +31,7 @@ if __name__ == "__main__":
     section_count = 0
 
     all_paths = list(sorted(raw_dir.glob("**/*")))
-    
+    print(all_paths)
     for path in [raw_dir, *all_paths]:
         doc_path = DocPath(path)
     
