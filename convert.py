@@ -12,6 +12,13 @@ from utils import (
     write_settings,
 )
 
+print("Progress in damn loop!")
+print(site_dir)
+print(raw_dir)
+print(docs_dir)
+
+print("where am i?!")
+        
 if __name__ == "__main__":
 
     Settings.parse_env()
@@ -28,10 +35,6 @@ if __name__ == "__main__":
     
     for path in [raw_dir, *all_paths]:
         doc_path = DocPath(path)
-        
-        print("Progress in damn loop!")
-        print(site_dir)
-        print("where am i?!")
     
         if doc_path.is_file:
             if doc_path.is_md:
