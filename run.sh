@@ -3,7 +3,7 @@
 pip install python-slugify
 
 # Avoid copying over netlify.toml (will ebe exposed to public API)
-echo "netlify.toml" >>__obsidian/.gitignore
+echo "netlify.toml" >>.gitignore
 
 # Sync Zola template contents
 
@@ -17,17 +17,17 @@ mkdir -pv __site/build/content/docs
 mkdir -pv __site/build/docs
 #__site/build/__docs
 
-ls __obsidian
-echo "thoughts here?"
+ls -R __site
+echo "files here?"
 
 chmod a+x __site/bin/obsidian-export
 
 if [ -z "$STRICT_LINE_BREAKS" ]; then
 	echo "this loop here"
-	__site/bin/obsidian-export --frontmatter=never --hard-linebreaks --no-recursive-embeds __obsidian __site/build/docs
+	__site/bin/obsidian-export --frontmatter=never --hard-linebreaks --no-recursive-embeds MyThoughts __site/build/docs
 else
 	echo "that loop there"
-	__site/bin/obsidian-export --frontmatter=never --no-recursive-embeds __obsidian __site/build/docs
+	__site/bin/obsidian-export --frontmatter=never --no-recursive-embeds MyThoughts __site/build/docs
 fi
 
 # Run conversion script
