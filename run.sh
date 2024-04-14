@@ -17,9 +17,6 @@ mkdir -pv __site/build/content/docs
 mkdir -pv __site/build/docs
 #__site/build/__docs
 
-ls -R __site
-echo "files here?"
-
 chmod a+x __site/bin/obsidian-export
 
 if [ -z "$STRICT_LINE_BREAKS" ]; then
@@ -29,6 +26,9 @@ else
 	echo "that loop there"
 	__site/bin/obsidian-export --frontmatter=never --no-recursive-embeds MyThoughts __site/build/docs
 fi
+
+ls -R __site/build/docs
+echo "obsidian export?"
 
 # Run conversion script
 python __site/convert.py
