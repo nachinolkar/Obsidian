@@ -12,11 +12,7 @@ from utils import (
     write_settings,
 )
 
-print("Progress in damn loop!")
-print(site_dir)
-print(raw_dir)
 
-print("where am i?!")
         
 if __name__ == "__main__":
 
@@ -31,7 +27,11 @@ if __name__ == "__main__":
     section_count = 0
 
     all_paths = list(sorted(raw_dir.glob("**/*")))
-    print(all_paths)
+    
+    print("Progress in damn loop!")
+    print(raw_dir.glob("**/*"))
+    print("where am i?!")
+
     for path in [raw_dir, *all_paths]:
         doc_path = DocPath(path)
     
