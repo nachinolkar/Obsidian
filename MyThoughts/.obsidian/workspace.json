@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Birthdays.canvas",
+                "file": "On Writing/Birthdays.canvas",
                 "viewState": {
                   "x": -60,
                   "y": 121,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Birthdays.canvas",
+                "file": "On Writing/Birthdays.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Birthdays.canvas",
+                "file": "On Writing/Birthdays.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Birthdays.canvas"
+                "file": "On Writing/Birthdays.canvas"
               }
             }
           },
@@ -147,11 +147,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b969fcd236b4728",
+  "active": "9bfce4e55d07dcaa",
   "lastOpenFiles": [
     "Saurabh PAN.jpeg",
     "Saurabh PAN 1.jpeg",
-    "Birthdays.canvas",
+    "On Writing/Birthdays.canvas",
     "On Random Things/3DPrinting/Firmware/What the Hell!.md",
     "On Random Things/FiftyOne/Welcome.md",
     "On Random Things/FiftyOne/garden hibiscus.md",
