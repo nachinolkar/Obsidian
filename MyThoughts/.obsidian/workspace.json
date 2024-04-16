@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0e4989cc0e45aef",
+        "id": "0819cdf47ddb6e25",
         "type": "tabs",
         "children": [
           {
-            "id": "1546fdb59faaabaf",
+            "id": "5b969fcd236b4728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "On Random Things/FiftyOne/Cool Filaments.md",
+                "file": "On Random Things/FiftyOne/Welcome.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 313.5
   },
   "right": {
     "id": "917d2de2da14f185",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On Random Things/FiftyOne/Cool Filaments.md",
+                "file": "On Random Things/FiftyOne/Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "On Random Things/FiftyOne/Cool Filaments.md",
+                "file": "On Random Things/FiftyOne/Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "On Random Things/FiftyOne/Cool Filaments.md"
+                "file": "On Random Things/FiftyOne/Welcome.md"
               }
             }
           },
@@ -127,11 +127,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,14 +145,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1546fdb59faaabaf",
+  "active": "5b969fcd236b4728",
   "lastOpenFiles": [
-    "On Random Things/3DPrinting/3D Printing.md",
-    "On Random Things/3DPrinting/Firmware/What the Hell!.md",
     "On Random Things/FiftyOne/Cool Filaments.md",
+    "On Random Things/FiftyOne/Welcome.md",
+    "On Random Things/3DPrinting/3D Printing.md",
+    "On Random Things/3DPrinting/Firmware/Klipper on MPMD V1.md",
+    "On Random Things/3DPrinting/Firmware/What the Hell!.md",
     "On Writing/On Writing At Fifty.md",
     "On Random Things/garden hibiscus.md",
-    "On Random Things/3DPrinting/Firmware/Klipper on MPMD V1.md",
     "On Random Things/3DPrinting/Firmware/Octoprint.md",
     "On Random Things/3DPrinting/3D Models/Motors.md",
     "On Random Things/3DPrinting/3D Models/Prusa Mini Customization.md",
@@ -176,7 +179,6 @@
     "zola/build/docs/Thoughts/3DPrinting/3D Models/Gear and Belt Generators.md",
     "zola/build/docs/Thoughts/FiftyOne/Cool Filaments.md",
     "zola/build/docs/Thoughts/3DPrinting/Firmware",
-    "zola/build/docs/Thoughts/3DPrinting/Cool Filaments.md",
     "zola/build/docs/Thoughts/3DPrinting/3D Models",
     "zola/build/docs/Thoughts/FiftyOne",
     "zola/build/docs/Thoughts/3DPrinting",
