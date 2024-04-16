@@ -11,12 +11,14 @@
             "id": "5b969fcd236b4728",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "On Random Things/FiftyOne/Welcome.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "Birthdays.canvas",
+                "viewState": {
+                  "x": -60,
+                  "y": 121,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On Random Things/FiftyOne/Welcome.md",
+                "file": "Birthdays.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "On Random Things/FiftyOne/Welcome.md",
+                "file": "Birthdays.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "On Random Things/FiftyOne/Welcome.md"
+                "file": "Birthdays.canvas"
               }
             }
           },
@@ -147,13 +149,16 @@
   },
   "active": "5b969fcd236b4728",
   "lastOpenFiles": [
-    "On Random Things/FiftyOne/Cool Filaments.md",
+    "Saurabh PAN.jpeg",
+    "Saurabh PAN 1.jpeg",
+    "Birthdays.canvas",
+    "On Random Things/3DPrinting/Firmware/What the Hell!.md",
     "On Random Things/FiftyOne/Welcome.md",
+    "On Random Things/FiftyOne/garden hibiscus.md",
+    "On Random Things/FiftyOne/Cool Filaments.md",
     "On Random Things/3DPrinting/3D Printing.md",
     "On Random Things/3DPrinting/Firmware/Klipper on MPMD V1.md",
-    "On Random Things/3DPrinting/Firmware/What the Hell!.md",
     "On Writing/On Writing At Fifty.md",
-    "On Random Things/garden hibiscus.md",
     "On Random Things/3DPrinting/Firmware/Octoprint.md",
     "On Random Things/3DPrinting/3D Models/Motors.md",
     "On Random Things/3DPrinting/3D Models/Prusa Mini Customization.md",
@@ -177,7 +182,6 @@
     "zola/build/docs/Thoughts/3DPrinting/3D Models/Motors.md",
     "zola/build/docs/Thoughts/3DPrinting/3D Models/Prusa Mini Customization.md",
     "zola/build/docs/Thoughts/3DPrinting/3D Models/Gear and Belt Generators.md",
-    "zola/build/docs/Thoughts/FiftyOne/Cool Filaments.md",
     "zola/build/docs/Thoughts/3DPrinting/Firmware",
     "zola/build/docs/Thoughts/3DPrinting/3D Models",
     "zola/build/docs/Thoughts/FiftyOne",
