@@ -1,0 +1,3 @@
+
+## Me me me! how great i am :-)
+my life struggles - without seeming like a hero

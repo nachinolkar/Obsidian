@@ -20,3 +20,9 @@ Letter to my 24 year old self!
 > List 1
 > List 2
 > Wow!
+> 
+> 
+> 
+
+Time travel :-)
+[[Letter to my future]]
