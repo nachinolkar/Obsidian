@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"747bf975f9a855d9","x":-185,"y":80,"width":250,"height":71,"color":"5","type":"text","text":"Happy Birthday to you!"},
-		{"id":"378082a630be2900","x":-175,"y":137,"width":250,"height":83,"type":"text","text":"\tHey really, happy bday"}
+		{"id":"378082a630be2900","type":"text","text":"\tHey really, happy bday","x":-100,"y":-200,"width":250,"height":113},
+		{"id":"747bf975f9a855d9","type":"text","text":"Happy Birthday to you!","x":-540,"y":-400,"width":250,"height":106,"color":"4"}
 	],
 	"edges":[
 		{"id":"191b3acaa485a6b9","fromNode":"747bf975f9a855d9","fromSide":"bottom","toNode":"378082a630be2900","toSide":"top"},

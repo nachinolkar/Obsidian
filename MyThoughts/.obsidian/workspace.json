@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "0819cdf47ddb6e25",
+        "id": "06b2b3a4abf5ba16",
         "type": "tabs",
         "children": [
           {
-            "id": "5b969fcd236b4728",
+            "id": "108cfaa15ea9f572",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "On Writing/Birthdays.canvas",
-                "viewState": {
-                  "x": -60,
-                  "y": 121,
-                  "zoom": 0
-                }
-              }
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "61e97bad0cc5a48c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "On Random Things/3DPrinting/Firmware/Klipper on MPMD V1.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Klipper on MPMD V1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,8 +57,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -57,7 +76,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -65,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On Writing/Birthdays.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +118,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -105,10 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "On Writing/Birthdays.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,9 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "On Writing/Birthdays.canvas"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -126,16 +151,27 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c77d1412cfc4dacc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,19 +183,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bfce4e55d07dcaa",
+  "active": "61e97bad0cc5a48c",
   "lastOpenFiles": [
-    "Saurabh PAN.jpeg",
-    "Saurabh PAN 1.jpeg",
-    "On Writing/Birthdays.canvas",
-    "On Random Things/3DPrinting/Firmware/What the Hell!.md",
-    "On Random Things/FiftyOne/Welcome.md",
-    "On Random Things/FiftyOne/garden hibiscus.md",
-    "On Random Things/FiftyOne/Cool Filaments.md",
-    "On Random Things/3DPrinting/3D Printing.md",
+    "On Random Things/List of Lists.md",
+    "Untitled.md",
+    "2025-02-03.md",
+    "Childhood Memories/The very beginning.md",
+    "2025-02-06.md",
+    "Childhood Memories/The wedding.md",
+    "Childhood Memories/Untitled.canvas",
     "On Random Things/3DPrinting/Firmware/Klipper on MPMD V1.md",
     "On Writing/On Writing At Fifty.md",
+    "Saurabh PAN.jpeg",
+    "Birthdays.canvas",
+    "attachments/Wedding 02.jpeg.~tmp",
+    "attachments/Wedding 01.jpeg.~tmp",
+    "Untitled.canvas",
+    "attachments/Wedding 01.jpeg",
+    "attachments/Wedding 02.jpeg",
+    "attachments",
+    "On Random Things/3DPrinting/Firmware/What the Hell!.md",
+    "On Random Things/FiftyOne/Cool Filaments.md",
+    "On Random Things/3DPrinting/3D Printing.md",
+    "On Writing/Birthdays.md",
+    "On Random Things/FiftyOne/Welcome.md",
     "On Random Things/3DPrinting/Firmware/Octoprint.md",
+    "On Random Things/FiftyOne/garden hibiscus.md",
+    "Childhood Memories",
+    "On Random Things/Untitled",
+    "Saurabh PAN 1.jpeg",
     "On Random Things/3DPrinting/3D Models/Motors.md",
     "On Random Things/3DPrinting/3D Models/Prusa Mini Customization.md",
     "On Random Things/3DPrinting/3D Models/Gear and Belt Generators.md",
@@ -173,19 +225,8 @@
     "zola/content/docs/Thoughts/3DPrinting/Cool Filaments.md",
     "zola/content/docs/Thoughts/3DPrinting/Firmware",
     "zola/content/docs/Thoughts/3DPrinting/3D Models",
-    "zola/content/docs/Thoughts/garden hibiscus.md",
     "zola/content/docs/Thoughts/FiftyOne",
     "zola/content/docs/Thoughts/3DPrinting",
-    "zola/content/docs/Thoughts",
-    "zola/build/docs/Thoughts/3DPrinting/Firmware/Octoprint.md",
-    "zola/build/docs/Thoughts/3DPrinting/Firmware/Klipper on MPMD V1.md",
-    "zola/build/docs/Thoughts/3DPrinting/3D Models/Motors.md",
-    "zola/build/docs/Thoughts/3DPrinting/3D Models/Prusa Mini Customization.md",
-    "zola/build/docs/Thoughts/3DPrinting/3D Models/Gear and Belt Generators.md",
-    "zola/build/docs/Thoughts/3DPrinting/Firmware",
-    "zola/build/docs/Thoughts/3DPrinting/3D Models",
-    "zola/build/docs/Thoughts/FiftyOne",
-    "zola/build/docs/Thoughts/3DPrinting",
-    "zola/build/docs/Thoughts"
+    "zola/content/docs/Thoughts"
   ]
 }
