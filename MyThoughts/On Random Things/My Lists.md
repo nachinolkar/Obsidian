@@ -5,12 +5,16 @@
 
 | List Name            |
 | -------------------- |
-| [[Books to read]]    |
+| [[Books to read]]  |
 | [[Lessons to write]] |
 | [[Places to travel]] |
 | [[Quilts to Quilt]]  |
-| Crafts to create     |
+| [[Friends List]] |
 | Paintings to paint   |
 |                      |
 |                      |
 
+Things to do
+- [Catchup with Anjali ]
+- Visit Ellora Society
+- Visit Dharwad college

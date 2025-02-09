@@ -1,4 +1,4 @@
 
 ## Complicated relation with Aai
 
-Give and takes - its a package!
+Give and take - its a package!
